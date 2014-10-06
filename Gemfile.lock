@@ -21,6 +21,7 @@ GEM
       dotenv
       mem
       slop
+    ruboty-hi (0.0.1)
     ruboty-idobata (0.0.3)
       pusher-client (~> 0.5.0)
       ruboty (~> 1.0.1)
@@ -35,4 +36,5 @@ PLATFORMS
 
 DEPENDENCIES
   ruboty
+  ruboty-hi
   ruboty-idobata
