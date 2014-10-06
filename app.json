@@ -1,0 +1,26 @@
+{
+  "description": "usagi-san bot, powered by ruboty",
+  "env": {
+    "IDOBATA_API_TOKEN": {
+      "description": "idobata bot api token",
+      "required": true
+    },
+    "ROBOT_NAME": {
+      "description": "your bot name",
+      "value": "usaboty"
+    },
+    "RUBOTY_ENV": {
+      "description": "an environment to load your gems",
+      "value": "production"
+    }
+  },
+  "keywords": [
+    "ruboty",
+    "bot",
+    "idobata.io"
+  ],
+  "logo": "https://raw.githubusercontent.com/blockgiven/dotfiles/master/icon.jpeg",
+  "name": "Usaboty",
+  "repository": "https://github.com/block_given/usaboty",
+  "website": "https://github.com/block_given/usaboty"
+}
