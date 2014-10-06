@@ -1,0 +1,11 @@
+deploy:
+  provider: heroku
+  app: usaboty
+  api_key:
+    secure: smmq2C7/5i7PZ2aIWf+Cbaa23lsqkPDiDQr+au9BlyDetQ/5g5XR96FlPhcAEzqQIV1jF6PBpzOY/8Sxz0iBFBgtmPsse97zpinisH9onBO91juGCwI9WxjqFGteTWSFOVkVXB0US3bekwlLv2YzZ345ouxh93bh9uBXVWraItY=
+language: ruby
+rvm: 2.1.3
+script: echo deploy!
+notifications:
+  webhooks:
+    secure: W6Xg1hfjVzICcRlOEfzS+6mHxhyejVlPC7LyJYBm268L+ncRuYRHaVxYp40SXEBGpP1DyDT4JM3v6LjIjju8Haj3ME1Nr7eD042jFWsIDudccbx53H9j1MyE7KjRc5CIw8f/DmAL5YOfhlQyAluWO5s5B7E67ACzLksXw+lUDTA=
