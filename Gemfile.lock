@@ -25,6 +25,7 @@ GEM
     ruboty-idobata (0.0.3)
       pusher-client (~> 0.5.0)
       ruboty (~> 1.0.1)
+    ruboty-slot (1.0.1)
     slop (3.6.0)
     thread_safe (0.3.4)
     tzinfo (1.2.2)
@@ -38,3 +39,4 @@ DEPENDENCIES
   ruboty
   ruboty-hi
   ruboty-idobata
+  ruboty-slot
