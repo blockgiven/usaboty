@@ -25,6 +25,8 @@ GEM
     ruboty-idobata (0.0.3)
       pusher-client (~> 0.5.0)
       ruboty (~> 1.0.1)
+    ruboty-opening_sentence (1.0.0)
+      ruboty
     ruboty-slot (1.0.1)
     slop (3.6.0)
     thread_safe (0.3.4)
@@ -39,4 +41,5 @@ DEPENDENCIES
   ruboty
   ruboty-hi
   ruboty-idobata
+  ruboty-opening_sentence
   ruboty-slot
