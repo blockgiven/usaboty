@@ -5,6 +5,6 @@ ruby '2.1.3'
 
 gem 'ruboty'
 gem 'ruboty-hi'
-gem 'ruboty-idobata'
+gem 'ruboty-idobata', group: :production
 gem 'ruboty-opening_sentence'
 gem 'ruboty-slot'
