@@ -41,6 +41,7 @@ GEM
       redis-namespace
       ruboty
     ruboty-slot (1.0.1)
+    ruboty-yasy (1.0.0)
     slop (3.6.0)
     thread_safe (0.3.4)
     tzinfo (1.2.2)
@@ -58,3 +59,4 @@ DEPENDENCIES
   ruboty-opening_sentence
   ruboty-redis
   ruboty-slot
+  ruboty-yasy
