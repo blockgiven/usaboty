@@ -7,4 +7,5 @@ gem 'ruboty'
 gem 'ruboty-hi'
 gem 'ruboty-idobata', group: :production
 gem 'ruboty-opening_sentence'
+gem 'ruboty-redis', group: :production
 gem 'ruboty-slot'

@@ -15,6 +15,9 @@ GEM
     pusher-client (0.5.0)
       json
       websocket (~> 1.1.2)
+    redis (3.1.0)
+    redis-namespace (1.5.1)
+      redis (~> 3.0, >= 3.0.4)
     ruboty (1.0.3)
       activesupport
       bundler
@@ -26,6 +29,10 @@ GEM
       pusher-client (~> 0.5.0)
       ruboty (~> 1.0.1)
     ruboty-opening_sentence (1.0.1)
+      ruboty
+    ruboty-redis (0.0.4)
+      redis
+      redis-namespace
       ruboty
     ruboty-slot (1.0.1)
     slop (3.6.0)
@@ -42,4 +49,5 @@ DEPENDENCIES
   ruboty-hi
   ruboty-idobata
   ruboty-opening_sentence
+  ruboty-redis
   ruboty-slot

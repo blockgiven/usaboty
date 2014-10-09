@@ -1,4 +1,5 @@
 {
+  "addons": ["rediscloud:25"],
   "description": "usagi-san bot, powered by ruboty",
   "env": {
     "IDOBATA_API_TOKEN": {
