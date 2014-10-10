@@ -10,6 +10,7 @@ GEM
     chrono (0.0.4)
       activesupport
     dotenv (1.0.1)
+    era_ja (0.2.2)
     i18n (0.6.11)
     json (1.8.1)
     mem (0.1.5)
@@ -30,6 +31,8 @@ GEM
       activesupport
       chrono
       ruboty (>= 0.2.0)
+    ruboty-gengo (0.0.1)
+      era_ja
     ruboty-hi (0.0.1)
     ruboty-idobata (0.0.3)
       pusher-client (~> 0.5.0)
@@ -54,6 +57,7 @@ PLATFORMS
 DEPENDENCIES
   ruboty
   ruboty-cron
+  ruboty-gengo
   ruboty-hi
   ruboty-idobata
   ruboty-opening_sentence
