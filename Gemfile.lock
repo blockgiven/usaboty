@@ -11,6 +11,7 @@ GEM
       activesupport
     dotenv (1.0.1)
     era_ja (0.2.2)
+    execjs (2.2.1)
     i18n (0.6.11)
     json (1.8.1)
     mem (0.1.5)
@@ -34,6 +35,9 @@ GEM
     ruboty-gengo (0.0.1)
       era_ja
     ruboty-hi (0.0.1)
+    ruboty-hubot (1.0.0)
+      execjs
+      ruboty
     ruboty-idobata (0.0.3)
       pusher-client (~> 0.5.0)
       ruboty (~> 1.0.1)
@@ -59,6 +63,7 @@ DEPENDENCIES
   ruboty-cron
   ruboty-gengo
   ruboty-hi
+  ruboty-hubot
   ruboty-idobata
   ruboty-opening_sentence
   ruboty-redis
