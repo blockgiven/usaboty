@@ -4,6 +4,7 @@ source 'https://rubygems.org/'
 ruby '2.1.3'
 
 gem 'ruboty'
+gem 'ruboty-call'
 gem 'ruboty-cron'
 gem 'ruboty-gengo'
 gem 'ruboty-hi'

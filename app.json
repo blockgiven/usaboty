@@ -13,6 +13,18 @@
     "RUBOTY_ENV": {
       "description": "an environment to load your gems",
       "value": "production"
+    },
+    "RUBOTY_PHONE_NUMBER": {
+      "description": "twilio phone number",
+      "required": true
+    },
+    "TWILIO_ACCOUNT_SID": {
+      "description": "twilio account sid",
+      "required": true
+    },
+    "TWILIO_AUTH_TOKEN": {
+      "description": "twilio auth token",
+      "required": true
     }
   },
   "keywords": [
