@@ -11,7 +11,7 @@ GEM
     builder (3.2.2)
     chrono (0.0.4)
       activesupport
-    dotenv (1.0.1)
+    dotenv (1.0.2)
     dropbox-sdk (1.6.4)
       json
     era_ja (0.2.2)
@@ -92,7 +92,7 @@ GEM
       mem
       phantomjs
       ruboty
-    ruboty-twada (1.0.0)
+    ruboty-twada (2.0.0)
       ruboty
     ruboty-yasy (1.0.0)
     slop (3.6.0)
