@@ -14,4 +14,5 @@ gem 'ruboty-opening_sentence'
 gem 'ruboty-redis', group: :production
 gem 'ruboty-slot'
 gem 'ruboty-ss'
+gem 'ruboty-twada'
 gem 'ruboty-yasy'
