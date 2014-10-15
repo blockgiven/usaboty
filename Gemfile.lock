@@ -73,7 +73,7 @@ GEM
       era_ja
     ruboty-heroku_status (1.0.0)
       ruboty
-    ruboty-hi (0.0.1)
+    ruboty-hi (1.0.0)
     ruboty-hubot (3.0.0)
       execjs
       ruboty
@@ -86,8 +86,8 @@ GEM
       redis
       redis-namespace
       ruboty
-    ruboty-slot (1.0.1)
-    ruboty-ss (1.0.0)
+    ruboty-slot (1.0.2)
+    ruboty-ss (1.0.1)
       dropbox-sdk
       gyazo
       jsonism
