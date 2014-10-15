@@ -71,6 +71,8 @@ GEM
       ruboty (>= 0.2.0)
     ruboty-gengo (0.0.1)
       era_ja
+    ruboty-heroku_status (1.0.0)
+      ruboty
     ruboty-hi (0.0.1)
     ruboty-hubot (1.0.0)
       execjs
@@ -113,6 +115,7 @@ DEPENDENCIES
   ruboty-call
   ruboty-cron
   ruboty-gengo
+  ruboty-heroku_status
   ruboty-hi
   ruboty-hubot
   ruboty-idobata

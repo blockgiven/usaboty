@@ -7,6 +7,7 @@ gem 'ruboty'
 gem 'ruboty-call'
 gem 'ruboty-cron'
 gem 'ruboty-gengo'
+gem 'ruboty-heroku_status'
 gem 'ruboty-hi'
 gem 'ruboty-hubot'
 gem 'ruboty-idobata', group: :production
