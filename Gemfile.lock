@@ -11,6 +11,10 @@ GEM
     builder (3.2.2)
     chrono (0.0.4)
       activesupport
+    coffee-script (2.3.0)
+      coffee-script-source
+      execjs
+    coffee-script-source (1.8.0)
     dotenv (1.0.2)
     dropbox-sdk (1.6.4)
       json
@@ -74,7 +78,8 @@ GEM
     ruboty-heroku_status (1.0.0)
       ruboty
     ruboty-hi (1.0.0)
-    ruboty-hubot (3.0.0)
+    ruboty-hubot (3.0.1)
+      coffee-script
       execjs
       ruboty
     ruboty-idobata (0.0.3)
