@@ -1,7 +1,7 @@
 deploy:
   app: usaboty
   api_key:
-    secure: smmq2C7/5i7PZ2aIWf+Cbaa23lsqkPDiDQr+au9BlyDetQ/5g5XR96FlPhcAEzqQIV1jF6PBpzOY/8Sxz0iBFBgtmPsse97zpinisH9onBO91juGCwI9WxjqFGteTWSFOVkVXB0US3bekwlLv2YzZ345ouxh93bh9uBXVWraItY=
+    secure: gXAfp+bGAFPkW01NVxZ0u6PK9CfFZyQzO0AJmWXlheWsvAF/+sTxc1kIKBbKlkkfTh6YuWbJrxG6pjThqlakTh/aJwzkvvf9Ha6Rm90l53qE74EUMHuvouQg0PCKrEWQYWboIQouvpS5nENJgsaCohKC1WPtdlVZqgE+Pp5JKx4=
   provider: heroku
   strategy: api
 language: ruby
