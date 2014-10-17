@@ -106,6 +106,8 @@ GEM
     ruboty-seppuku (2.0.1)
       platform-api
       ruboty
+    ruboty-silent (1.0.0)
+      ruboty
     ruboty-slot (1.0.2)
     ruboty-ss (1.0.1)
       dropbox-sdk
@@ -142,6 +144,7 @@ DEPENDENCIES
   ruboty-opening_sentence
   ruboty-redis
   ruboty-seppuku
+  ruboty-silent
   ruboty-slot
   ruboty-ss
   ruboty-twada
