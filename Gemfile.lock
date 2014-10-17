@@ -11,6 +11,7 @@ GEM
     builder (3.2.2)
     chrono (0.0.4)
       activesupport
+    coderay (1.1.0)
     coffee-script (2.3.0)
       coffee-script-source
       execjs
@@ -56,6 +57,7 @@ GEM
     launchy (2.4.2)
       addressable (~> 2.3)
     mem (0.1.5)
+    method_source (0.8.2)
     mimemagic (0.2.1)
     minitest (5.4.2)
     moneta (0.8.0)
@@ -66,6 +68,10 @@ GEM
     phantomjs (1.9.7.1)
     platform-api (0.2.0)
       heroics (~> 0.0.10)
+    pry (0.10.1)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
     pusher-client (0.5.0)
       json
       websocket (~> 1.1.2)
@@ -133,6 +139,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  pry
   ruboty
   ruboty-call
   ruboty-cron

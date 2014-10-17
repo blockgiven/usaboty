@@ -3,6 +3,7 @@ source 'https://rubygems.org/'
 
 ruby '2.1.3'
 
+gem 'pry', group: :development
 gem 'ruboty'
 gem 'ruboty-call'
 gem 'ruboty-cron'
