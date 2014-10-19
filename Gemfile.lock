@@ -122,10 +122,14 @@ GEM
       mem
       phantomjs
       ruboty
+    ruboty-sudden_death (1.0.1)
+      ruboty
+      sudden_death
     ruboty-twada (2.0.0)
       ruboty
     ruboty-yasy (1.0.0)
     slop (3.6.0)
+    sudden_death (0.0.3)
     thread_safe (0.3.4)
     twilio-ruby (3.13.1)
       builder (>= 2.1.2)
@@ -154,5 +158,6 @@ DEPENDENCIES
   ruboty-silent
   ruboty-slot
   ruboty-ss
+  ruboty-sudden_death
   ruboty-twada
   ruboty-yasy
