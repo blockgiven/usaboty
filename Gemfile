@@ -17,6 +17,7 @@ gem 'ruboty-redis', group: :production
 gem 'ruboty-seppuku'
 gem 'ruboty-silent'
 gem 'ruboty-slot'
+gem 'ruboty-slide_me'
 gem 'ruboty-ss'
 gem 'ruboty-sudden_death'
 gem 'ruboty-twada'

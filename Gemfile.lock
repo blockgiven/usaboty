@@ -59,12 +59,15 @@ GEM
     mem (0.1.5)
     method_source (0.8.2)
     mimemagic (0.2.1)
+    mini_portile (0.6.0)
     minitest (5.4.2)
     moneta (0.8.0)
     multi_json (1.10.1)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
     netrc (0.7.8)
+    nokogiri (1.6.3.1)
+      mini_portile (= 0.6.0)
     phantomjs (1.9.7.1)
     platform-api (0.2.0)
       heroics (~> 0.0.10)
@@ -114,6 +117,9 @@ GEM
       ruboty
     ruboty-silent (1.0.0)
       ruboty
+    ruboty-slide_me (0.0.1)
+      nokogiri
+      ruboty
     ruboty-slot (1.0.2)
     ruboty-ss (1.0.1)
       dropbox-sdk
@@ -156,6 +162,7 @@ DEPENDENCIES
   ruboty-redis
   ruboty-seppuku
   ruboty-silent
+  ruboty-slide_me
   ruboty-slot
   ruboty-ss
   ruboty-sudden_death
