@@ -7,6 +7,7 @@ gem 'pry', group: :development
 gem 'ruboty'
 gem 'ruboty-call'
 gem 'ruboty-cron'
+gem 'ruboty-dajare'
 gem 'ruboty-gengo'
 gem 'ruboty-heroku_status'
 gem 'ruboty-hi'
