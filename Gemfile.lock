@@ -106,6 +106,10 @@ GEM
     ruboty-idobata (0.0.3)
       pusher-client (~> 0.5.0)
       ruboty (~> 1.0.1)
+    ruboty-kintai (1.0.1)
+      activesupport
+      ruboty
+      tokiyomi
     ruboty-opening_sentence (1.0.1)
       ruboty
     ruboty-redis (0.0.4)
@@ -137,6 +141,8 @@ GEM
     slop (3.6.0)
     sudden_death (0.0.3)
     thread_safe (0.3.4)
+    tokiyomi (0.1.0)
+      activesupport
     twilio-ruby (3.13.1)
       builder (>= 2.1.2)
       jwt (~> 1.0.0)
@@ -158,6 +164,7 @@ DEPENDENCIES
   ruboty-hi
   ruboty-hubot
   ruboty-idobata
+  ruboty-kintai
   ruboty-opening_sentence
   ruboty-redis
   ruboty-seppuku
