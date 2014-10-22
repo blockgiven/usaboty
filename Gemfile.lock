@@ -139,6 +139,9 @@ GEM
       sudden_death
     ruboty-twada (2.0.0)
       ruboty
+    ruboty-ueno_park_event (1.0.0)
+      nokogiri
+      ruboty
     ruboty-yasy (1.0.0)
     slop (3.6.0)
     sudden_death (0.0.3)
@@ -177,4 +180,5 @@ DEPENDENCIES
   ruboty-ss
   ruboty-sudden_death
   ruboty-twada
+  ruboty-ueno_park_event
   ruboty-yasy
