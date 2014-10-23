@@ -16,6 +16,7 @@ gem 'ruboty-idobata', group: :production
 gem 'ruboty-kintai'
 gem 'ruboty-opening_sentence'
 gem 'ruboty-redis', group: :production
+gem 'ruboty-replica'
 gem 'ruboty-seppuku'
 gem 'ruboty-silent'
 gem 'ruboty-slot'
