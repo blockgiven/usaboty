@@ -14,6 +14,7 @@ gem 'ruboty-hi'
 gem 'ruboty-hubot'
 gem 'ruboty-idobata', group: :production
 gem 'ruboty-kintai'
+gem 'ruboty-nyan_nyan'
 gem 'ruboty-opening_sentence'
 gem 'ruboty-redis', group: :production
 gem 'ruboty-replica'
