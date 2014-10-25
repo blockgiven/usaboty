@@ -112,6 +112,8 @@ GEM
       activesupport
       ruboty
       tokiyomi
+    ruboty-mstr (1.0.1)
+      ruboty
     ruboty-nyan_nyan (0.0.1)
       ruboty
     ruboty-opening_sentence (1.0.1)
@@ -176,6 +178,7 @@ DEPENDENCIES
   ruboty-hubot
   ruboty-idobata
   ruboty-kintai
+  ruboty-mstr
   ruboty-nyan_nyan
   ruboty-opening_sentence
   ruboty-redis
