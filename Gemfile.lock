@@ -154,6 +154,9 @@ GEM
       nokogiri
       ruboty
     ruboty-yasy (1.0.0)
+    ruboty-zatsudan (0.0.1)
+      faraday
+      ruboty
     slop (3.6.0)
     sudden_death (0.0.3)
     thread_safe (0.3.4)
@@ -197,3 +200,4 @@ DEPENDENCIES
   ruboty-twada
   ruboty-ueno_park_event
   ruboty-yasy
+  ruboty-zatsudan

@@ -33,6 +33,10 @@
     "FLICKR_API_SECRET": {
       "description": "flickr api secret for search free image",
       "required": true
+    },
+    "DOCOMO_APIKEY": {
+      "description": "docomo api key for ruboty-zatsudan",
+      "required": true
     }
   },
   "keywords": [
