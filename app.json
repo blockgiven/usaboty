@@ -25,6 +25,14 @@
     "TWILIO_AUTH_TOKEN": {
       "description": "twilio auth token",
       "required": true
+    },
+    "FLICKR_API_KEY": {
+      "description": "flickr api key for search free image",
+      "required": true
+    },
+    "FLICKR_API_SECRET": {
+      "description": "flickr api secret for search free image",
+      "required": true
     }
   },
   "keywords": [
