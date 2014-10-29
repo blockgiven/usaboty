@@ -1,7 +1,7 @@
 # encoding: utf-8
 source 'https://rubygems.org/'
 
-ruby '2.1.3'
+ruby '2.1.4'
 
 gem 'pry', group: :development
 gem 'ruboty'
