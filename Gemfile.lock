@@ -97,6 +97,9 @@ GEM
       ruboty (>= 0.2.0)
     ruboty-dajare (1.0.0)
       ruboty
+    ruboty-deadline (1.0.0)
+      ruboty
+      tokiyomi
     ruboty-free_image (1.0.1)
       flickraw
       ruboty
@@ -179,6 +182,7 @@ DEPENDENCIES
   ruboty-call
   ruboty-cron
   ruboty-dajare
+  ruboty-deadline
   ruboty-free_image
   ruboty-gengo
   ruboty-heroku_status
