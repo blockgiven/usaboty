@@ -157,6 +157,8 @@ GEM
       nokogiri
       ruboty
     ruboty-yasy (1.0.0)
+    ruboty-yo (1.0.0)
+      ruboty
     ruboty-zatsudan (0.0.1)
       faraday
       ruboty
@@ -204,4 +206,5 @@ DEPENDENCIES
   ruboty-twada
   ruboty-ueno_park_event
   ruboty-yasy
+  ruboty-yo
   ruboty-zatsudan

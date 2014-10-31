@@ -37,6 +37,10 @@
     "DOCOMO_APIKEY": {
       "description": "docomo api key for ruboty-zatsudan",
       "required": true
+    },
+    "YO_API_TOKEN": {
+      "description": "yo api token",
+      "required": true
     }
   },
   "keywords": [
