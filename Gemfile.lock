@@ -148,6 +148,8 @@ GEM
       mem
       phantomjs
       ruboty
+    ruboty-stats (1.0.1)
+      ruboty
     ruboty-sudden_death (1.0.1)
       ruboty
       sudden_death
@@ -202,6 +204,7 @@ DEPENDENCIES
   ruboty-slide_me
   ruboty-slot
   ruboty-ss
+  ruboty-stats
   ruboty-sudden_death
   ruboty-twada
   ruboty-ueno_park_event
