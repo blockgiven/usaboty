@@ -17,6 +17,7 @@ gem 'ruboty-hubot'
 gem 'ruboty-idobata', group: :production
 gem 'ruboty-kintai'
 gem 'ruboty-mstr'
+gem 'ruboty-minecraft_status'
 gem 'ruboty-nyan_nyan'
 gem 'ruboty-opening_sentence'
 gem 'ruboty-redis', group: :production

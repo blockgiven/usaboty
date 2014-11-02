@@ -119,6 +119,9 @@ GEM
       activesupport
       ruboty
       tokiyomi
+    ruboty-minecraft_status (0.0.1)
+      ruboty
+      takumi-server_list_ping
     ruboty-mstr (1.0.1)
       ruboty
     ruboty-nyan_nyan (0.0.1)
@@ -166,6 +169,9 @@ GEM
       ruboty
     slop (3.6.0)
     sudden_death (0.0.3)
+    takumi-packet (0.0.2)
+    takumi-server_list_ping (0.0.5)
+      takumi-packet
     thread_safe (0.3.4)
     tokiyomi (0.1.0)
       activesupport
@@ -194,6 +200,7 @@ DEPENDENCIES
   ruboty-hubot
   ruboty-idobata
   ruboty-kintai
+  ruboty-minecraft_status
   ruboty-mstr
   ruboty-nyan_nyan
   ruboty-opening_sentence
